@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-05 18:21:05,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-06 06:16:30,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
@@ -29,19 +29,15 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
-新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 
 ☘️广东频道,#genre#
 
 ☘️港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-明珠台,https://live.tvfix.org/live/pearl/index.m3u8
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://120.55.49.231:3095/rtp/233.50.200.191:5140
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 🎬电影频道,#genre#
@@ -50,19 +46,24 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 
 🏀体育频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
+广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
+广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb
+广州竞赛,https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&amp;txSecret=067c1cd334fe2f8773d9452993e86c78
 广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+山东体育,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
